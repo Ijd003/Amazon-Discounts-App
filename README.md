@@ -4,9 +4,12 @@ Amazon Discount App extracts real-time discounts and prices of products from Ama
 ### Current Updates
 * Cloned the pathway's llm-app repository into the local system named as "llm-app" which contains the dependencies to build a RAG pipeline.
 * Generated a unique GEMINI API key and stored it in a .env file
-* Built the docker image
+* Connected litellm wrapper
+* Built a docker image to store the pipeline
 
 ### Future Plans for project
 * Create an in-memory persistent vector store with real-time document indexing using Pathway that can easily work with documents in online storage or local directory.
-* Integrate it with LlamaIndex
+* Employing an open source model
+* Build a private RAG pipeline and deploy a local llm
+* Integrate it with LlamaIndex and Langchain
 
