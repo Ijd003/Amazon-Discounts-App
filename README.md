@@ -1,1 +1,1 @@
-# Amazon-Discounts-App using RAG based LLM
+# Amazon Discounts App using RAG based LLM
